@@ -1,4 +1,4 @@
-# Exercise-02b-Bullets-And-Asteroids
+# Exercise-02d-Scenes-And-Menus
 
 Exercise for MSCH-C220
 
